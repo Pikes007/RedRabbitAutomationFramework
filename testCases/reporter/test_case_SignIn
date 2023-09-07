@@ -1,0 +1,12 @@
+Test Case 2: Login User with incorrect and correct email and password
+	1. Launch browser
+	2. Navigate to url 'https://redrabbit.rebaseventures.com'
+	3. Verify 'Sign in to your account' is visible
+	4. Enter incorrect email address and password
+	5. Click 'Sign in' button
+	6. Verify error 'Your email or password is incorrect!' is visible
+	7. Enter correct email address and password
+	8. Click 'Sign in' button
+	9. Verify that 'Good Day, Administrator Administrator' is visible
+	10. Click 'Logout' button
+	11. Verify that user is navigated to login page

@@ -1,0 +1,10 @@
+Test Case 3: Create Ticket
+	1. Launch browser
+	2. Navigate to url 'https://redrabbit.rebaseventures.com'
+	3. Verify Sign in was successful
+	4. Navigate to MaintenanceRequestsPage
+	5. Search for reference number in requests list
+	6. Locate number and click to open create ticket
+    7. if reference number not found in list - return message and exit
+    8. if found fill in ticket and create
+    9. verify ticket created and get ref number for ticket (screenshot)

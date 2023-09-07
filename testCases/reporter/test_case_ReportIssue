@@ -1,0 +1,12 @@
+Test Case 1: Lodge issue
+    1. Launch browser
+    2. Navigate to url 'https://redrabbit.rebaseventures.com/catch-of-the-day/maintenance'
+    3. Verify that home page is visible successfully
+    4. Click on type of property selected (Commercial / Residential / Body Corporate)
+    5. Click on type of fault button (Select 3 different faults)
+    6. Verify that alert message is displayed ("Maximum issues reached")
+    7. Click on type of fault button again
+    8. Verify that max issues exceeded pop up message is displayed
+    9. Fill in forms and submit fault details
+    10. Take screenshot - (reference number)
+    11. Verify that reference number is correct
